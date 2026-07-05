@@ -1,5 +1,4 @@
-import streamlit as st
-import requests
+requests
 from datetime import datetime
 
 st.set_page_config(page_title="MAGU BTC Dashboard", layout="wide", page_icon="📊")
